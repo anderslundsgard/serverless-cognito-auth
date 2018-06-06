@@ -1,6 +1,6 @@
 # serverless-cognito-auth
 
-Sample code for using Cognito User Pools with CUSOTOM AUTH of API Gateway.
+Sample code for using Cognito User Pools with CUSTOM AUTH of API Gateway.
 
 use this resources.
 - AWS API Gateway
